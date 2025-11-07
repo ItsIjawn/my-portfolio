@@ -297,19 +297,19 @@ export default function Portfolio() {
                 </div>
                 <span>johndavepelone07@gmail.com</span>
               </a>
-              <a href="https://www.linkedin.com/in/johndave-pelone-1b681a395/" className="flex items-center text-gray-300 hover:text-pink-500 transition-colors group">
+              <a href="https://www.facebook.com/jan.dee.5473894" className="flex items-center text-gray-300 hover:text-pink-500 transition-colors group">
                 <div className="w-10 h-10 bg-pink-500/20 rounded-lg flex items-center justify-center mr-3 group-hover:bg-pink-500 transition-colors">
                   <Facebook className="group-hover:text-white transition-colors" size={20} />
                 </div>
                 <span>www.facebook.com/jan.dee</span>
               </a>
-              <a href="https://github.com/ItsIjawn" className="flex items-center text-gray-300 hover:text-pink-500 transition-colors group">
+              <a href="https://www.linkedin.com/in/johndave-pelone-1b681a395/" className="flex items-center text-gray-300 hover:text-pink-500 transition-colors group">
                 <div className="w-10 h-10 bg-pink-500/20 rounded-lg flex items-center justify-center mr-3 group-hover:bg-pink-500 transition-colors">
                   <Linkedin className="group-hover:text-white transition-colors" size={20} />
                 </div>
                 <span>www.linkedin.com/in/johndave-pelone</span>
               </a>
-              <a href="#" className="flex items-center text-gray-300 hover:text-pink-500 transition-colors group">
+              <a href="https://github.com/ItsIjawn" className="flex items-center text-gray-300 hover:text-pink-500 transition-colors group">
                 <div className="w-10 h-10 bg-pink-500/20 rounded-lg flex items-center justify-center mr-3 group-hover:bg-pink-500 transition-colors">
                   <Github className="group-hover:text-white transition-colors" size={20} />
                 </div>
